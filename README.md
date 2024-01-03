@@ -2,7 +2,11 @@
 - Auto-discovery of tests
 - Install
     ```
-    pip install pytest
+    pip install pytest  
+    ```
+- run
+    ```
+    pytest tests/test_my_functions.py
     ```
 
 ### Virtual Environments and Packages
